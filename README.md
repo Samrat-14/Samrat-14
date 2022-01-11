@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Georgia&color=%230DDF88&center=true&multiline=true&height=75&lines=Hey+there!;Welcome+to+my+profile!;+ I'm+Samrat,+A+CP+enthusiast+from+JGEC%2C+India)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Georgia&color=%230DDF88&center=true&multiline=true&height=75&lines=Hey+there!;Welcome+to+my+profile!;+I'm+Samrat,+A+CP+enthusiast+from+JGEC%2C+India)](https://git.io/typing-svg)
 <br>
 ![](https://komarev.com/ghpvc/?username=Samrat-14&color=0DDF88)
 <!-- [![wakatime](https://wakatime.com/badge/user/a3b47685-64e4-451c-9f82-029ff94c4c72.svg)](https://wakatime.com/@a3b47685-64e4-451c-9f82-029ff94c4c72) -->
