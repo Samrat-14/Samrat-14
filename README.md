@@ -61,4 +61,7 @@
   <img align="mid" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samrat-14&layout=compact" />
 </a>
 <br><br>
-[![Samrat's github activity graph](https://activity-graph.herokuapp.com/graph?username=Samrat-14&theme=gotham)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- [![Samrat's github activity graph](https://activity-graph.herokuapp.com/graph?username=Samrat-14&theme=gotham&line=0ddf88&point=7bedbe&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <img align="mid" alt="Samrat's github activity graph" src="https://activity-graph.herokuapp.com/graph?username=Samrat-14&theme=gotham&line=0ddf88&point=7bedbe&area=true" />
+</a>
