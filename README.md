@@ -49,9 +49,9 @@
 
 ● REACT DJANGO DEVELOPER
 
-<!-- ![Samrat's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samrat-14&show_icons=true&theme=tokyonight)
+![Samrat's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samrat-14&show_icons=true&theme=tokyonight)
 <br>
-<img src="https://wakatime.com/share/@code_soham/ea11f121-fe40-48d0-adaa-c5f8feb939a3.svg" height="360px" alt="wakaTIME"/>
+<!-- <img src="https://wakatime.com/share/@code_soham/ea11f121-fe40-48d0-adaa-c5f8feb939a3.svg" height="360px" alt="wakaTIME"/>
 <img src="https://wakatime.com/share/@code_soham/2b058a96-0791-4c33-b5ad-cab31691ca95.svg" height="360px" alt= "Wakatime Language Stats"/>
 <br>
 <br>
