@@ -52,15 +52,14 @@
 ![Samrat's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samrat-14&show_icons=true&theme=tokyonight)
 <br>
 <!-- <img src="https://wakatime.com/share/@code_soham/ea11f121-fe40-48d0-adaa-c5f8feb939a3.svg" height="360px" alt="wakaTIME"/>
-<img src="https://wakatime.com/share/@code_soham/2b058a96-0791-4c33-b5ad-cab31691ca95.svg" height="360px" alt= "Wakatime Language Stats"/>
+<img src="https://wakatime.com/share/@code_soham/2b058a96-0791-4c33-b5ad-cab31691ca95.svg" height="360px" alt= "Wakatime Language Stats"/> -->
 <br>
 <br>
-<br>
-<img src ="https://github-readme-streak-stats.herokuapp.com?user=code-soham&theme=darcula&hide_border=false&background=FFFFFF00">
+<img src ="https://github-readme-streak-stats.herokuapp.com?user=Samrat-14&theme=tokyonight&hide_border=false&background=FFFFFF00">
 
 <br><br>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=code-soham&layout=compact">
-  <img align="mid" src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-soham&layout=compact" />
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Samrat-14&layout=compact">
+  <img align="mid" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samrat-14&layout=compact" />
 </a>
 <br><br>
-[![Samrat's github activity graph](https://activity-graph.herokuapp.com/graph?username=code-soham&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
+[![Samrat's github activity graph](https://activity-graph.herokuapp.com/graph?username=Samrat-14&theme=gotham)](https://github.com/ashutosh00710/github-readme-activity-graph)
