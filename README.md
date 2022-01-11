@@ -61,4 +61,4 @@
   <img align="mid" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samrat-14&layout=compact" />
 </a>
 <br><br>
-[![Samrat's github activity graph](https://activity-graph.herokuapp.com/graph?username=Samrat-14&theme=gotham&line=0DDF88)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Samrat's github activity graph](https://activity-graph.herokuapp.com/graph?username=Samrat-14&theme=gotham&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
