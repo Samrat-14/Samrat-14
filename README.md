@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Georgia&color=%230DDF88&multiline=true&height=75&lines=Hey+there!;Welcome+to+my+profile!;+I'm+Samrat,+A+CP+enthusiast+from+JGEC%2C+India)](https://git.io/typing-svg)
-<br>
+<br><br>
 ![](https://komarev.com/ghpvc/?username=Samrat-14&color=0DDF88)
 <br>
 <!-- [![wakatime](https://wakatime.com/badge/user/a3b47685-64e4-451c-9f82-029ff94c4c72.svg)](https://wakatime.com/@a3b47685-64e4-451c-9f82-029ff94c4c72) -->
@@ -54,12 +54,11 @@
 <!-- <img src="https://wakatime.com/share/@code_soham/ea11f121-fe40-48d0-adaa-c5f8feb939a3.svg" height="360px" alt="wakaTIME"/>
 <img src="https://wakatime.com/share/@code_soham/2b058a96-0791-4c33-b5ad-cab31691ca95.svg" height="360px" alt= "Wakatime Language Stats"/> -->
 <br>
-<br>
 <img src ="https://github-readme-streak-stats.herokuapp.com?user=Samrat-14&theme=tokyonight&hide_border=false&background=FFFFFF00">
 
-<br><br>
+<br>
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Samrat-14&layout=compact">
   <img align="mid" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samrat-14&layout=compact" />
 </a>
 <br><br>
-[![Samrat's github activity graph](https://activity-graph.herokuapp.com/graph?username=Samrat-14&theme=gotham)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Samrat's github activity graph](https://activity-graph.herokuapp.com/graph?username=Samrat-14&theme=gotham&line=0DDF88&point=77e6b8)](https://github.com/ashutosh00710/github-readme-activity-graph)
