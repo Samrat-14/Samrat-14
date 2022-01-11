@@ -29,7 +29,7 @@
 <a href="https://code.visualstudio.com/"><img align="left" alt="VSCode" width="40px" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg"/></a>
 <a href="https://www.sublimetext.com/"><img align="left" alt="Sublime" width="40px" src="https://api.iconify.design/logos:sublimetext-icon.svg"/></a>
 <a href="https://github.com/"><img align="left" alt="Github" width="40px" src="https://api.iconify.design/logos:github-octocat.svg"/></a>
-<a href="https://isocpp.org/"><img align="left" alt="C++" width="40px" src="https://seeklogo.com/images/C/c-logo-43CE78FF9C-seeklogo.com.png"/><a>
+<a href="https://isocpp.org/"><img align="left" alt="C++" width="40px" src="https://seeklogo.com/images/C/c-logo-43CE78FF9C-seeklogo.com.png"/></a>
 <a href="https://www.w3schools.com/html/"><img align="left" alt="HTML" width="40px" src="https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png"/></a>
 <a href="https://www.tutorialspoint.com/cprogramming/index.htm"><img align="left" alt="C" width="40px" src="https://seeklogo.com/images/C/c-programming-language-logo-9B32D017B1-seeklogo.com.png"/></a>
 
@@ -61,4 +61,4 @@
   <img align="mid" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samrat-14&layout=compact" />
 </a>
 <br><br>
-[![Samrat's github activity graph](https://activity-graph.herokuapp.com/graph?username=Samrat-14&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Samrat's github activity graph](https://activity-graph.herokuapp.com/graph?username=Samrat-14&theme=gotham)](https://github.com/ashutosh00710/github-readme-activity-graph)
