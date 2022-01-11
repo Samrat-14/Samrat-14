@@ -5,7 +5,7 @@
 <!-- [![wakatime](https://wakatime.com/badge/user/a3b47685-64e4-451c-9f82-029ff94c4c72.svg)](https://wakatime.com/@a3b47685-64e4-451c-9f82-029ff94c4c72) -->
 <h3 align="left">Connect with me :</h3>
 <a href="https://www.linkedin.com/in/samrat-sadhu-744874202">
-  <img align="left" alt="Soamrat Sadhu - LinkedIn" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/256px-Linkedin_icon.svg.png"/>
+  <img align="left" alt="Samrat Sadhu - LinkedIn" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/256px-Linkedin_icon.svg.png"/>
 </a>
 <a href="mailto:ss2414@ece.jgec.ac.in">
   <img align="left" alt="Samrat Sadhu - Google Mail" width="40px" src="https://api.iconify.design/logos:google-gmail.svg"/>
@@ -34,7 +34,7 @@
 <a href="https://www.tutorialspoint.com/cprogramming/index.htm"><img align="left" alt="C" width="40px" src="https://seeklogo.com/images/C/c-programming-language-logo-9B32D017B1-seeklogo.com.png"/></a>
 
  
- <br><br>
+<br><br>
 
 ### About Me :
 
