@@ -50,18 +50,14 @@
 ● REACT DJANGO DEVELOPER
 
 ![Samrat's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samrat-14&show_icons=true&theme=tokyonight)
-<br>
-<!-- <img src="https://wakatime.com/share/@code_soham/ea11f121-fe40-48d0-adaa-c5f8feb939a3.svg" height="360px" alt="wakaTIME"/>
-<img src="https://wakatime.com/share/@code_soham/2b058a96-0791-4c33-b5ad-cab31691ca95.svg" height="360px" alt= "Wakatime Language Stats"/> -->
-<br>
+<br><br>
 <img src ="https://github-readme-streak-stats.herokuapp.com?user=Samrat-14&theme=tokyonight&hide_border=false&background=FFFFFF00">
-
-<br>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Samrat-14&layout=compact">
-  <img align="mid" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samrat-14&layout=compact" />
+<br><br>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Samrat-14&langs_count=10&theme=tokyonight&layout=compact">
+  <img align="mid" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samrat-14&langs_count=10&theme=tokyonight&layout=compact" />
 </a>
 <br><br>
 <!-- [![Samrat's github activity graph](https://activity-graph.herokuapp.com/graph?username=Samrat-14&theme=gotham&line=0ddf88&point=7bedbe&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
   <img align="mid" alt="Samrat's github activity graph" src="https://activity-graph.herokuapp.com/graph?username=Samrat-14&theme=gotham&line=0ddf88&point=7bedbe&area=true" />
 </a>
