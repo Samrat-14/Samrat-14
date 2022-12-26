@@ -39,7 +39,7 @@
 ### About Me :
 
 
-● Sophomore pursuing B.Tech in Electronics and Communication Engineering 👨🏻‍🎓🏛.
+● Pre-final year pursuing B.Tech in Electronics and Communication Engineering 👨🏻‍🎓🏛.
 
 ● Competitive Programming enthusiast 👨🏽‍💻.
 
