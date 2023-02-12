@@ -25,6 +25,7 @@
 <a href="https://reactjs.org/"><img align="left" alt="ReactJs" width="40px" src="https://api.iconify.design/logos:react.svg"/></a>
 <a href="https://nodejs.org/en/"><img align="left" alt="nodeJs" width="40px" src="https://www.freepnglogos.com/uploads/javascript-png/javascript-nodejs-logo-27.png"/></a>
 <a href="https://www.mongodb.com/"><img align="left" alt="MongoDB" width="40px" src="https://img.icons8.com/color/240/000000/mongodb.png"/></a>
+<a href="https://www.postman.com/" target="_blank"><img align="left" alt="Postman" width="40px" src="https://cdn.worldvectorlogo.com/logos/postman.svg"/></a>
 <a href="https://www.adobe.com/in/products/premiere.html?sdid=STLMM87Z&mv=search&ef_id=CjwKCAjwoP6LBhBlEiwAvCcthCGEOHA_wzR_SZfTOc2tAZjHjlXPKiE5q00sJ7qVHr9csIHsXA_8MBoCKI8QAvD_BwE:G:s&s_kwcid=AL!3085!3!473191824156!e!!g!!premiere%20pro!221167988!17525565668&gclid=CjwKCAjwoP6LBhBlEiwAvCcthCGEOHA_wzR_SZfTOc2tAZjHjlXPKiE5q00sJ7qVHr9csIHsXA_8MBoCKI8QAvD_BwE"><img align="left" alt="Premiere" width="40px" src="https://img.icons8.com/color/48/000000/adobe-premiere-pro--v2.png"/></a>
 <a href="https://code.visualstudio.com/"><img align="left" alt="VSCode" width="40px" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg"/></a>
 <a href="https://www.sublimetext.com/"><img align="left" alt="Sublime" width="40px" src="https://api.iconify.design/logos:sublimetext-icon.svg"/></a>
