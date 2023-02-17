@@ -59,5 +59,5 @@
 </a>
 <br><br>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img align="mid" alt="Samrat's github activity graph" src="https://activity-graph.herokuapp.com/graph?username=Samrat-14&theme=gotham&line=0ddf88&point=7bedbe&area=true" />
+  <img align="mid" alt="Samrat's github activity graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Samrat-14&theme=gotham&line=0ddf88&point=7bedbe&area=true" />
 </a>
