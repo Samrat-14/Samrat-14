@@ -40,7 +40,7 @@
 ### About Me :
 
 
-● Pre-final year pursuing B.Tech in Electronics and Communication Engineering 👨🏻‍🎓🏛.
+● Final year pursuing B.Tech in Electronics and Communication Engineering 👨🏻‍🎓🏛.
 
 ● Competitive Programming enthusiast 👨🏽‍💻.
 
