@@ -131,7 +131,7 @@
 
 ### Let's connect and collaborate to build something extraordinary together!
 
-<p align="left" style="display: flex; gap: 10px; flex-wrap: wrap">
+<p align="left">
   <a href="https://www.linkedin.com/in/samrat-sadhu" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samrat-sadhu" height="30" width="40" /></a>
   <a href="mailto:ss2414@ece.jgec.ac.in" target="blank"><img src="https://api.iconify.design/logos:google-gmail.svg" alt="ss2414@ece.jgec.ac.in" height="30" width="40" /></a>
   <a href="https://www.instagram.com/s_a_m_r_a_t_007" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s_a_m_r_a_t_007" height="30" width="40" /></a>
@@ -143,5 +143,5 @@
 </p>
 
 <p align="right" > <a href="https://count.getloli.com/"><img width="20%" src="https://count.getloli.com/get/@:Samrat-14?theme=rule34"></a></p>
-<p align="right" > Created with 💚 by <a href="https://github.com/Samrat-14">Samrat</a></p>
+<p align="right" > Created with 💚 by <a href="https://samrat-14.github.io/my-portfolio/">Samrat</a></p>
 <p align="right" > <img src="https://komarev.com/ghpvc/?username=Samrat-14&label=Profile%20views&color=0DDF88&style=flat" alt="Samrat-14"/> </p>
