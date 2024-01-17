@@ -50,7 +50,7 @@
 
 ---
 
-### My daily used-tech:
+## My daily used-tech:
 
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
@@ -74,7 +74,7 @@
 
 ---
 
-### GitHub Stats:
+## GitHub Stats:
 
 <p align="center">
   <picture>
@@ -129,7 +129,7 @@
 
 ---
 
-### Let's connect and collaborate to build something extraordinary together!
+## Let's connect and collaborate to build something extraordinary together!
 
 <p align="left" style="display: flex; gap: 10px; flex-wrap: wrap">
   <a href="https://www.linkedin.com/in/samrat-sadhu" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samrat-sadhu" height="30" width="40" /></a>
