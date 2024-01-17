@@ -100,7 +100,7 @@
     <img align="center" height="175px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Samrat-14&show_icons=true&locale=en&layout=compact&langs_count=10&theme=tokyonight" />
   </picture>
 </p>
-<p align="center">
+<!-- <p align="center">
   <picture>
     <source
       srcset="https://github-readme-streak-stats.herokuapp.com?user=Samrat-14&theme=tokyonight"
@@ -112,7 +112,7 @@
     />
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Samrat-14&theme=tokyonight" />
   </picture>
-</p>
+</p> -->
 <p align="center">
   <picture>
     <source
@@ -123,7 +123,7 @@
       srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Wellwisher&theme=vue&layout=compact"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/Wellwisher?username=imniladri&theme=tokyonight&layout=compact" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/Wellwisher?username=Wellwisher&theme=tokyonight&layout=compact" />
   </picture>
 </p>
 
