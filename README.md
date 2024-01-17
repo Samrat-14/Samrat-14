@@ -1,31 +1,32 @@
 <p align="center">
-    <!-- <img alt="header" src="https://typograssy.deno.dev/api?text=Samrat%20Sadhu&frame=none&comment="> -->
+  <!-- <img alt="header" src="https://typograssy.deno.dev/api?text=Samrat%20Sadhu&frame=none&comment="> -->
   <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
-<h1 align="center"> Hi, I am SAMRAT SADHU </h1>
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?lines=Electronics+%26+Communication+Undergraduate;Fullstack+Developer;React+Developer;Django+Developer;UI%2fUX+Designer;Aspiring+Learner&center=true&width=500&height=50&color=0DDF88">
-</p>  
-<h3 align="center">Embarking on a Journey of Technological Mastery: Navigating the CODEscape<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
-<p align="center">
-  <em>
-   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">Engaged in the pursuit of knowledge within the expansive realm of coding, I am an <b>ardent self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">, characterized by unwavering motivation and diligence. Currently undertaking a <b>Bachelor of Technology</b> degree in <b>Electronics and Communication Engineering</b> at <b>Jalpaiguri Government Engineering College</b>, West Bengal, India.
-  </em> 
-  <br>
-  <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="69">
- <i align="center">"Fostering Innovation and Contribution in the Expansive Realm of Technology: <b>Embracing an Open World</b>."</i>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="github contribution grid snake animation"
+      src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
+  <h1 align="center"> Hi, I am SAMRAT SADHU </h1>
+  <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Electronics+%26+Communication+Undergraduate;Fullstack+Developer;React+Developer;Django+Developer;UI%2fUX+Designer;Aspiring+Learner&center=true&width=500&height=50&color=0DDF88">
+  </p>  
+  <h3 align="center">Embarking on a Journey of Technological Mastery: Navigating the CODEscape<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+  <p align="center">
+    <em>
+      <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">Engaged in the pursuit of knowledge within the expansive realm of coding, I am an <b>ardent self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">, characterized by unwavering motivation and diligence. Currently undertaking a <b>Bachelor of Technology</b> degree in <b>Electronics and Communication Engineering</b> at <b>Jalpaiguri Government Engineering College</b>, West Bengal, India.
+    </em> 
+    <br>
+    <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="69">
+    <i align="center">"Fostering Innovation and Contribution in the Expansive Realm of Technology: <b>Embracing an Open World</b>."</i>
+  </p>
 </p>
 
 ## Hello there! 👋
@@ -51,7 +52,7 @@
 
 ### My daily used-tech:
 
-<div align="left"> 
+<p align="left"> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a>
   <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a>
@@ -69,7 +70,7 @@
   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-</div>
+</p>
 
 ---
 
