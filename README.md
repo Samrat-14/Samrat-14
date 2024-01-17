@@ -1,63 +1,145 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Georgia&color=%230DDF88&multiline=true&height=75&lines=Hey+there!;Welcome+to+my+profile!;+I'm+Samrat,+A+CP+enthusiast+from+JGEC%2C+India)](https://git.io/typing-svg)
-<br><br>
-![](https://komarev.com/ghpvc/?username=Samrat-14&color=0DDF88)
-<br>
-<!-- [![wakatime](https://wakatime.com/badge/user/a3b47685-64e4-451c-9f82-029ff94c4c72.svg)](https://wakatime.com/@a3b47685-64e4-451c-9f82-029ff94c4c72) -->
-<h3 align="left">Connect with me :</h3>
-<a href="https://www.linkedin.com/in/samrat-sadhu-744874202">
-  <img align="left" alt="Samrat Sadhu - LinkedIn" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/256px-Linkedin_icon.svg.png"/>
-</a>
-<a href="mailto:ss2414@ece.jgec.ac.in">
-  <img align="left" alt="Samrat Sadhu - Google Mail" width="40px" src="https://api.iconify.design/logos:google-gmail.svg"/>
-</a>
-<a href="https://www.facebook.com/samrat.sadhu.50/">
-  <img align="left" alt="Samrat Sadhu - Facebook" width="40px" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg"/>
-</a>
-<a href="https://www.instagram.com/s_a_m_r_a_t_007">
-  <img align="left" alt="Samrat Sadhu - Instagram" width="40px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg"/>
-</a>
+<p align="center">
+    <!-- <img alt="header" src="https://typograssy.deno.dev/api?text=Samrat%20Sadhu&frame=none&comment="> -->
+  <picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+<h1 align="center"> Hi, I am SAMRAT SADHU </h1>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?lines=Electronics+%26+Communication+Undergraduate;Fullstack+Developer;React+Developer;Django+Developer;UI%2fUX+Designer;Aspiring+Learner&center=true&width=500&height=50&color=0DDF88">
+</p>  
+<h3 align="center">Embarking on a Journey of Technological Mastery: Navigating the CODEscape<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
+<p align="center">
+  <em>
+   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">Engaged in the pursuit of knowledge within the expansive realm of coding, I am an <b>ardent self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">, characterized by unwavering motivation and diligence. Currently undertaking a <b>Bachelor of Technology</b> degree in <b>Electronics and Communication Engineering</b> at <b>Jalpaiguri Government Engineering College</b>, West Bengal, India.
+  </em> 
+  <br>
+  <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="69">
+ <i align="center">"Fostering Innovation and Contribution in the Expansive Realm of Technology: <b>Embracing an Open World</b>."</i>
+</p>
 
+## Hello there! 👋
 
-<br><br>
+🚀 In tandem with my formal education in Electronics and Communication Engineering, my exploration spans a spectrum of expertise:
 
-### My daily used-tech :
-<a href="https://www.python.org/" target="_blank"><img align="left" alt="Python" width="40px" src="https://cdn.worldvectorlogo.com/logos/python-5.svg"/></a>
-<a href="https://reactjs.org/"><img align="left" alt="ReactJs" width="40px" src="https://api.iconify.design/logos:react.svg"/></a>
-<a href="https://nodejs.org/en/"><img align="left" alt="nodeJs" width="40px" src="https://www.freepnglogos.com/uploads/javascript-png/javascript-nodejs-logo-27.png"/></a>
-<a href="https://www.mongodb.com/"><img align="left" alt="MongoDB" width="40px" src="https://img.icons8.com/color/240/000000/mongodb.png"/></a>
-<a href="https://www.postman.com/" target="_blank"><img align="left" alt="Postman" width="40px" src="https://cdn.worldvectorlogo.com/logos/postman.svg"/></a>
-<a href="https://www.adobe.com/in/products/premiere.html?sdid=STLMM87Z&mv=search&ef_id=CjwKCAjwoP6LBhBlEiwAvCcthCGEOHA_wzR_SZfTOc2tAZjHjlXPKiE5q00sJ7qVHr9csIHsXA_8MBoCKI8QAvD_BwE:G:s&s_kwcid=AL!3085!3!473191824156!e!!g!!premiere%20pro!221167988!17525565668&gclid=CjwKCAjwoP6LBhBlEiwAvCcthCGEOHA_wzR_SZfTOc2tAZjHjlXPKiE5q00sJ7qVHr9csIHsXA_8MBoCKI8QAvD_BwE"><img align="left" alt="Premiere" width="40px" src="https://img.icons8.com/color/48/000000/adobe-premiere-pro--v2.png"/></a>
-<a href="https://code.visualstudio.com/"><img align="left" alt="VSCode" width="40px" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg"/></a>
-<a href="https://www.sublimetext.com/"><img align="left" alt="Sublime" width="40px" src="https://api.iconify.design/logos:sublimetext-icon.svg"/></a>
-<a href="https://github.com/"><img align="left" alt="Github" width="40px" src="https://api.iconify.design/logos:github-octocat.svg"/></a>
-<a href="https://isocpp.org/"><img align="left" alt="C++" width="40px" src="https://seeklogo.com/images/C/c-logo-43CE78FF9C-seeklogo.com.png"/></a>
-<a href="https://www.w3schools.com/html/"><img align="left" alt="HTML" width="40px" src="https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png"/></a>
-<a href="https://www.tutorialspoint.com/cprogramming/index.htm"><img align="left" alt="C" width="40px" src="https://seeklogo.com/images/C/c-programming-language-logo-9B32D017B1-seeklogo.com.png"/></a>
-<a href="https://www.java.com/en/download/help/whatis_java.html"><img align="left" alt="Java" width="40px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"/></a>
- 
-<br><br>
+- 🧪 **Versatile Pioneer:** Mastering the intricacies of arduinos, deciphering data, and sculpting immersive web experiences.
 
-### About Me :
+<!-- Middle Image -->
+<img width="40%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
+- **💻 Code Artisan:** Proficient in **Python, Javascript, Java, C/C++, HTML/CSS & SQL**.
 
-● Final year pursuing B.Tech in Electronics and Communication Engineering 👨🏻‍🎓🏛.
+- **🚀 Frontend Virtuoso:** Architecting visually captivating user interfaces with finesse using **React, NextJs, and Tailwind CSS**.
 
-● Competitive Programming enthusiast 👨🏽‍💻.
+- **🌐 Backend Architect:** Crafting streamlined server-side logic for optimal performance through **Django, NodeJs, Express, JSON, and RESTful APIs**.
 
-● Ask me about Python💻.
+- **💡 Inquisitive Pathfinder:** Navigating the realms of **data structures, algorithms**, and pushing the boundaries of knowledge.
 
-● Eager to Learn new techs stacks and skills 🕵🏻‍♂️.
+- **🔧 Tech Alchemist:** Commanding the realms of **VS Code, Jira, Notion, MySQL Workbench, Docker Desktop, and Google Cloud Platform** to triumph over programming challenges.
 
-● REACT DJANGO DEVELOPER
+---
 
-![Samrat's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samrat-14&show_icons=true&theme=tokyonight)
-<br><br>
-<img src ="https://github-readme-streak-stats.herokuapp.com?user=Samrat-14&theme=tokyonight&hide_border=false&background=FFFFFF00">
-<br><br>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Samrat-14&langs_count=10&theme=tokyonight&layout=compact">
-  <img align="mid" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samrat-14&langs_count=10&theme=tokyonight&layout=compact" />
-</a>
-<br><br>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img align="mid" alt="Samrat's github activity graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Samrat-14&theme=gotham&line=0ddf88&point=7bedbe&area=true" />
-</a>
+### My daily used-tech:
+
+<p align="left"> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a>
+  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/> </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt="postman" width="40" height="40"/> </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
+  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+
+---
+
+### GitHub Stats:
+
+<p align="center">
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=Samrat-14&theme=tokyonight&show_icons=true&locale=en&rank_icon=github"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=Samrat-14&theme=vue&show_icons=true&locale=en&rank_icon=github"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img align="center" height="175px" src="https://github-readme-stats.vercel.app/api?username=Samrat-14&theme=tokyonight&show_icons=true&locale=en&rank_icon=github"/>
+  </picture>
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Samrat-14&show_icons=true&locale=en&layout=compact&langs_count=10&theme=tokyonight"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Samrat-14&show_icons=true&locale=en&layout=compact&langs_count=10&theme=vue"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img align="center" height="175px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Samrat-14&show_icons=true&locale=en&layout=compact&langs_count=10&theme=tokyonight" />
+  </picture>
+</p>
+<p align="center">
+  <picture>
+    <source
+      srcset="https://github-readme-streak-stats.herokuapp.com?user=Samrat-14&theme=tokyonight"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-streak-stats.herokuapp.com?user=Samrat-14&theme=vue"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Samrat-14&theme=tokyonight" />
+  </picture>
+</p>
+<p align="center">
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Wellwisher&theme=tokyonight&layout=compact"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Wellwisher&theme=vue&layout=compact"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/Wellwisher?username=imniladri&theme=tokyonight&layout=compact" />
+  </picture>
+</p>
+
+---
+
+### Let's connect and collaborate to build something extraordinary together!
+
+<p align="left" style="display: flex; gap: 10px; flex-wrap: wrap">
+  <a href="https://www.linkedin.com/in/samrat-sadhu" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samrat-sadhu" height="30" width="40" /></a>
+  <a href="mailto:ss2414@ece.jgec.ac.in" target="blank"><img src="https://api.iconify.design/logos:google-gmail.svg" alt="ss2414@ece.jgec.ac.in" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/s_a_m_r_a_t_007" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s_a_m_r_a_t_007" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/@wellwisher_samrat" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="wellwisher_samrat" height="30" width="40" /></a>
+  <a href="https://leetcode.com/samratdewdrops0/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="samratdewdrops0" height="30" width="40" /></a>
+  <a href="https://auth.geeksforgeeks.org/user/samratdewdrops0/profile" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="samratdewdrops0/profile" height="30" width="40" /></a>
+  <a href="https://codeforces.com/profile/samratdewdrops0" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="samratdewdrops0" height="30" width="40" /></a>
+  <a href="https://www.codechef.com/users/samrat_9502" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="samrat_9502" height="30" width="40" /></a>
+</p>
+
+<p align="right" > <a href="https://count.getloli.com/"><img width="20%" src="https://count.getloli.com/get/@:Samrat-14?theme=rule34"></a></p>
+<p align="right" > Created with 💚 by <a href="https://github.com/Samrat-14">Samrat</a></p>
+<p align="right" > <img src="https://komarev.com/ghpvc/?username=Samrat-14&label=Profile%20views&color=0DDF88&style=flat" alt="Samrat-14"/> </p>
