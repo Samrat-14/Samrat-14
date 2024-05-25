@@ -143,5 +143,5 @@
 </p>
 
 <p align="right" > <a href="https://count.getloli.com/"><img width="20%" src="https://count.getloli.com/get/@:Samrat-14?theme=rule34"></a></p>
-<p align="right" > Created with 💚 by <a href="https://samrat-14.github.io/my-portfolio/">Samrat</a></p>
+<p align="right" > Created with 💚 by <a href="https://samrat-sadhu-portfolio.vercel.app/">Samrat</a></p>
 <p align="right" > <img src="https://komarev.com/ghpvc/?username=Samrat-14&label=Profile%20views&color=0DDF88&style=flat" alt="Samrat-14"/> </p>
