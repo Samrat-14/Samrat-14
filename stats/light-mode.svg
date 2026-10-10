@@ -50,7 +50,7 @@ text, tspan {white-space: pre;}
 <tspan x="390" y="90" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ................................................ </tspan><tspan class="value">TCS</tspan>
 <tspan x="390" y="110" class="cc">. </tspan><tspan class="key">Stack</tspan>:<tspan class="cc" id="age_data_dots"> ..................... </tspan><tspan class="value" id="age_data">Typescript, Python, C++, Java</tspan>
 <tspan x="390" y="130" class="cc">. </tspan><tspan class="key">Process</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">Building AI-powered developer tools</tspan>
-<tspan x="390" y="150" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> ....................... </tspan><tspan class="value" id="age_data">24 years, 5 months, 0 days</tspan>
+<tspan x="390" y="150" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> ........................ </tspan><tspan class="value" id="age_data">24 years, 5 months, 1 day</tspan>
 <tspan x="390" y="170" class="cc">. </tspan>
 <tspan x="390" y="190" class="cc">. </tspan><tspan class="key">Modules</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">NextJs, React, Angular, Flask</tspan>
 <tspan x="390" y="210" class="cc">. </tspan><tspan class="key">Dependencies</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">LangGraph, Langchain, Redis</tspan>
